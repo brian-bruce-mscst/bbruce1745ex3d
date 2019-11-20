@@ -67,14 +67,29 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Content Include="HtmlPage1.html" />
+    <Content Include="contact.html" />
+    <Content Include="css\materialize.css" />
+    <Content Include="css\materialize.min.css" />
+    <Content Include="css\style.css" />
+    <Content Include="images\BioPhoto2.jpg" />
+    <Content Include="images\CarpentryHeaderImage2.jpg" />
+    <Content Include="images\Colin2.JPG" />
+    <Content Include="images\drywallHeader2.PNG" />
+    <Content Include="images\oldworkshop.jpg" />
+    <Content Include="images\toolbox.jpg" />
+    <Content Include="index.html" />
+    <Content Include="js\init.js" />
+    <Content Include="js\materialize.js" />
+    <Content Include="js\materialize.min.js" />
     <Content Include="Web.config" />
   </ItemGroup>
   <ItemGroup>
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
   <ItemGroup>
+    <Content Include="LICENSE" />
     <None Include="packages.config" />
+    <Content Include="README.md" />
     <None Include="Web.Debug.config">
       <DependentUpon>Web.config</DependentUpon>
     </None>
